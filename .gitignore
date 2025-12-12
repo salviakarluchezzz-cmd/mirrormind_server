@@ -1,0 +1,26 @@
+venv/
+.venv/
+.env
+__pycache__/
+*.pyc
+*.pyd
+*.log
+.vscode/
+.idea/
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyd
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
